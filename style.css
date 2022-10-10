@@ -66,7 +66,26 @@ body {
 .nav-link:active{
   color: #000 !important;
 }
-
+.asd{
+    background-color: maroon;
+}
+.principal-img{
+   border: 10px solid maroon;
+   padding: 15px;
+}
+.az{
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+.text-muted{
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+}
+.aq{
+    color: white;
+}
 .title {
   padding-left: 1rem;
   font-weight: bolder;
